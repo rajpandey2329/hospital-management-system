@@ -37,7 +37,7 @@
 ---
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+- Install Python(3.11.4) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
 ```
 pip install django==3.0.5
@@ -77,5 +77,5 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on twitter](https://fb.com/@pandeyraj2329)
+- [Contact on twitter](https://twitter.com/@pandeyraj2329)
 
