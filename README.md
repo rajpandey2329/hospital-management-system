@@ -4,13 +4,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/rajpandey2329/hospital-management-system/blob/main/static/screenshots/homepage.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
+![dashboard snap](https://github.com/rajpandey2329/hospital-management-system/blob/main/static/screenshots/admin_dashboard.png)
 ### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
+![invoice snap](https://github.com/rajpandey2329/hospital-management-system/blob/main/static/screenshots/invoice.png)
 ### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+![doctor snap](https://github.com/rajpandey2329/hospital-management-system/blob/main/static/screenshots/admin_doctor.png)
 ---
 ## Functions
 ### Admin
@@ -77,5 +77,5 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on twitter](https://fb.com/Raj Pandey)
-- [Contact on twitter](https://youtube.com/lazycoders)
+- [Contact on twitter](https://fb.com/@pandeyraj2329)
+
